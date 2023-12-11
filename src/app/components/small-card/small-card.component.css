@@ -1,0 +1,17 @@
+.container__small-card{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  padding: 1rem 2rem;
+  height: 150px;
+}
+
+.small-card__img {
+  margin-right: 0.5rem;
+}
+
+.small-card__description > h1 > a {
+  text-decoration: none;
+  font-size: 1rem;
+}
+
