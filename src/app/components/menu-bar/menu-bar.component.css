@@ -1,5 +1,6 @@
 .menu-bar__container {
   height: 50px;
+  margin: 5px;
 }
 
 .menu-bar__navbar {
@@ -7,7 +8,7 @@
   display: flex;
   flex-direction: row;
   align-items: baseline;
-  justify-content: flex-start;
+  justify-content: center;
 }
 
 .menu-bar__nav-item {

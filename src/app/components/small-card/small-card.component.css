@@ -8,6 +8,7 @@
 
 .small-card__img {
   margin-right: 0.5rem;
+  width: 40%;
 }
 
 .small-card__description > h1 > a {

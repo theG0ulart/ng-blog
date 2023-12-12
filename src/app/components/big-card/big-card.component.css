@@ -7,14 +7,23 @@
   justify-content: flex-start;
 }
 
-.big-card__title > h1{
-  font-size: 1.2rem;
+.big-card__title > h1 {
+    font-size: 1.2rem;
   margin-top: 0.5rem;
+}
+
+.big-card__title > h1 > a {
+  text-decoration: none;
 }
 
 .big-card__description > p {
   margin-top: 1rem;
+  margin-right: 1rem;
   color: grey;
+}
+
+.big-card__description > p > a {
+  text-decoration: none;
 }
 
 .big-card__img {
